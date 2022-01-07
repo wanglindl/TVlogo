@@ -8,7 +8,7 @@
 
 【[数字频道](https://github.com/wanglindl/TVLogo/blob/main/md/10.md)】  【[DOX系列](https://github.com/wanglindl/TVLogo/blob/main/md/11.md)】  【[iHOT系列](https://github.com/wanglindl/TVLogo/blob/main/md/12.md)】  【[NewTV系列](https://github.com/wanglindl/TVLogo/blob/main/md/13.md)】  【[CIBN系列](https://github.com/wanglindl/TVLogo/blob/main/md/14.md)】
 
-【[山东](https://github.com/wanglindl/TVLogo/blob/main/md/10.md)】  【[江苏](https://github.com/wanglindl/TVLogo/blob/main/md/10.md)】  【[安徽](https://github.com/wanglindl/TVLogo/blob/main/md/10.md)】  【[浙江](https://github.com/wanglindl/TVLogo/blob/main/md/10.md)】  【[福建](https://github.com/wanglindl/TVLogo/blob/main/md/10.md)】  【[上海](https://github.com/wanglindl/TVLogo/blob/main/md/10.md)】
+【[山东](https://github.com/wanglindl/TVLogo/blob/main/md/20.md)】  【[江苏](https://github.com/wanglindl/TVLogo/blob/main/md/10.md)】  【[安徽](https://github.com/wanglindl/TVLogo/blob/main/md/10.md)】  【[浙江](https://github.com/wanglindl/TVLogo/blob/main/md/10.md)】  【[福建](https://github.com/wanglindl/TVLogo/blob/main/md/10.md)】  【[上海](https://github.com/wanglindl/TVLogo/blob/main/md/10.md)】
 
 【[广东](https://github.com/wanglindl/TVLogo/blob/main/md/10.md)】  【[广西](https://github.com/wanglindl/TVLogo/blob/main/md/10.md)】  【[海南](https://github.com/wanglindl/TVLogo/blob/main/md/10.md)】
 
