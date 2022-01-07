@@ -14,6 +14,8 @@ http://10.10.10.1:8888/udp/10.10.10.10:8888
 
 【[CCTV](https://github.com/wanglindl/TVLogo/blob/main/md/01.md)】  【[CGTN](https://github.com/wanglindl/TVLogo/blob/main/md/02.md)】  【[中央新影](https://github.com/wanglindl/TVLogo/blob/main/md/03.md)】  【[中国教育电视台](https://github.com/wanglindl/TVLogo/blob/main/md/04.md)】  【[新华社](https://github.com/wanglindl/TVLogo/blob/main/md/05.md)】
 
+【[全国卫视](https://github.com/wanglindl/TVLogo/blob/main/md/06.md)】
+
 [【香港】【澳门】](https://github.com/wanglindl/TVLogo/blob/main/01.md)
 
 [【台湾01】](https://github.com/wanglindl/TVLogo/blob/main/01.md)
