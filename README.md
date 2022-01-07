@@ -6,9 +6,7 @@
 
 【[全国卫视](https://github.com/wanglindl/TVLogo/blob/main/md/06.md)】  【[港澳地区](https://github.com/wanglindl/TVLogo/blob/main/md/07.md)】  【[台湾地区一](https://github.com/wanglindl/TVLogo/blob/main/md/08.md)】  【[台湾地区二](https://github.com/wanglindl/TVLogo/blob/main/md/09.md)】
 
-【[数字频道](https://github.com/wanglindl/TVLogo/blob/main/md/10.md)】
-
-[【DOX】【iHOT】【NewTV】【CIBN】](https://github.com/wanglindl/TVLogo/blob/main/01.md)
+【[数字频道](https://github.com/wanglindl/TVLogo/blob/main/md/10.md)】  【[DOX系列](https://github.com/wanglindl/TVLogo/blob/main/md/11.md)】  【[iHOT系列](https://github.com/wanglindl/TVLogo/blob/main/md/12.md)】  【[NewTV系列](https://github.com/wanglindl/TVLogo/blob/main/md/13.md)】  【[CIBN系列](https://github.com/wanglindl/TVLogo/blob/main/md/14.md)】
 
 [【北京】【上海】【天津】【重庆】](https://github.com/wanglindl/TVLogo/blob/main/01.md)
 
