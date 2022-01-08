@@ -1,0 +1,20 @@
+# 【NewTV系列】台标PNG文件
+|频道名|台标图片|频道名|台标图片|
+|:---|:---:|:---|:---:|
+|NewTV军事评论|<img src="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/NewTV01.png" width="300" height="180">|NewTV军旅剧场|<img src="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/NewTV02.png" width="300" height="180">|
+|NewTV动作电影|<img src="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/NewTV03.png" width="300" height="180">|NewTV古装剧场|<img src="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/NewTV04.png" width="300" height="180">|
+|NewTV家庭剧场|<img src="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/NewTV05.png" width="300" height="180">|NewTV海外剧场|<img src="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/NewTV06.png" width="300" height="180">|
+|NewTV中国功夫|<img src="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/NewTV07.png" width="300" height="180">|NewTV农业致富|<img src="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/NewTV08.png" width="300" height="180">|
+|NewTV东北热剧|<img src="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/NewTV09.png" width="300" height="180">|NewTV惊悚悬疑|<img src="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/NewTV10.png" width="300" height="180">|
+|NewTV怡伴健康|<img src="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/NewTV11.png" width="300" height="180">|NewTV明星大片|<img src="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/NewTV12.png" width="300" height="180">|
+|NewTV欢乐剧场|<img src="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/NewTV13.png" width="300" height="180">|NewTV武搏世界|<img src="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/NewTV14.png" width="300" height="180">|
+|NewTV潮妈辣婆|<img src="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/NewTV15.png" width="300" height="180">|NewTV炫舞未来|<img src="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/NewTV16.png" width="300" height="180">|
+|NewTV爱情喜剧|<img src="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/NewTV17.png" width="300" height="180">|NewTV精品体育|<img src="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/NewTV18.png" width="300" height="180">|
+|NewTV精品大剧|<img src="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/NewTV19.png" width="300" height="180">|NewTV精品纪录|<img src="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/NewTV20.png" width="300" height="180">|
+|NewTV金牌综艺|<img src="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/NewTV21.png" width="300" height="180">|NewTV超级体育|<img src="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/NewTV22.png" width="300" height="180">|
+|NewTV超级电影|<img src="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/NewTV23.png" width="300" height="180">|NewTV超级综艺|<img src="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/NewTV24.png" width="300" height="180">|
+|NewTV超级电视剧|<img src="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/NewTV25.png" width="300" height="180">|NewTV魅力黑龙江|<img src="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/NewTV26.png" width="300" height="180">|
+|NewTV魅力江西|<img src="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/NewTV27.png" width="300" height="180">|NewTV魅力山东|<img src="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/NewTV28.png" width="300" height="180">|
+|NewTV魅力广东|<img src="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/NewTV29.png" width="300" height="180">|NewTV魅力四川|<img src="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/NewTV30.png" width="300" height="180">|
+|NewTV魅力吉林|<img src="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/NewTV31.png" width="300" height="180">|NewTV魅力广西|<img src="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/NewTV32.png" width="300" height="180">|
+|NewTV魅力云南|<img src="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/NewTV33.png" width="300" height="180">|NewTV魅力潇湘|<img src="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/NewTV34.png" width="300" height="180">|
