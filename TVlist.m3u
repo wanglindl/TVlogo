@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/CCTV1.png" tvg-id="1" tvg-name="CCTV1" group-title="央视高清",CCTV-1综合
+http://10.10.10.10/1.m3u8
