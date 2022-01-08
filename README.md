@@ -1,8 +1,7 @@
 ### Markdown简介
 > Markdown 是一种轻量级标记语言，它允许人们使用易读易写的纯文本格式编写文档，然后转换成格式丰富的HTML页面。
 
-
-【[CCTV](https://github.com/wanglindl/TVLogo/blob/main/md/01.md)】  【[CGTN](https://github.com/wanglindl/TVLogo/blob/main/md/02.md)】  【[中央新影](https://github.com/wanglindl/TVLogo/blob/main/md/03.md)】  【[中国教育电视台](https://github.com/wanglindl/TVLogo/blob/main/md/04.md)】  【[新华社](https://github.com/wanglindl/TVLogo/blob/main/md/05.md)】
+【[CCTV](https://github.com/wanglindl/TVLogo/blob/main/md/01.md)】  【[CGTN、中国教育电视台、新华社、中央新影](https://github.com/wanglindl/TVLogo/blob/main/md/02.md)】
 
 【[全国卫视](https://github.com/wanglindl/TVLogo/blob/main/md/06.md)】  【[港澳地区](https://github.com/wanglindl/TVLogo/blob/main/md/07.md)】  【[台湾地区一](https://github.com/wanglindl/TVLogo/blob/main/md/08.md)】  【[台湾地区二](https://github.com/wanglindl/TVLogo/blob/main/md/09.md)】
 
