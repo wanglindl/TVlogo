@@ -1,39 +1,37 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/CCTV1.png" tvg-id="1" tvg-name="CCTV1" group-title="央视高清",CCTV-1综合
 http://10.10.10.10/1.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/CCTV1.png" tvg-id="1" tvg-name="CCTV1" group-title="央视高清",CCTV-1综合
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/CCTV2.png" tvg-id="1" tvg-name="CCTV2" group-title="央视高清",CCTV-1综合
 http://10.10.10.10/1.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/CCTV1.png" tvg-id="1" tvg-name="CCTV2" group-title="央视高清",CCTV-1综合
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/CCTV3.png" tvg-id="1" tvg-name="CCTV3" group-title="央视高清",CCTV-1综合
 http://10.10.10.10/1.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/CCTV1.png" tvg-id="1" tvg-name="CCTV3" group-title="央视高清",CCTV-1综合
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/CCTV4.png" tvg-id="1" tvg-name="CCTV4" group-title="央视高清",CCTV-1综合
 http://10.10.10.10/1.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/CCTV1.png" tvg-id="1" tvg-name="CCTV4" group-title="央视高清",CCTV-1综合
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/CCTV5.png" tvg-id="1" tvg-name="CCTV5" group-title="央视高清",CCTV-1综合
 http://10.10.10.10/1.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/CCTV1.png" tvg-id="1" tvg-name="CCTV5" group-title="央视高清",CCTV-1综合
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/CCTV6.png" tvg-id="1" tvg-name="CCTV6" group-title="央视高清",CCTV-1综合
 http://10.10.10.10/1.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/CCTV1.png" tvg-id="1" tvg-name="CCTV6" group-title="央视高清",CCTV-1综合
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/CCTV7.png" tvg-id="1" tvg-name="CCTV7" group-title="央视高清",CCTV-1综合
 http://10.10.10.10/1.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/CCTV1.png" tvg-id="1" tvg-name="CCTV7" group-title="央视高清",CCTV-1综合
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/CCTV8.png" tvg-id="1" tvg-name="CCTV8" group-title="央视高清",CCTV-1综合
 http://10.10.10.10/1.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/CCTV1.png" tvg-id="1" tvg-name="CCTV8" group-title="央视高清",CCTV-1综合
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/CCTV9.png" tvg-id="1" tvg-name="CCTV9" group-title="央视高清",CCTV-1综合
 http://10.10.10.10/1.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/CCTV1.png" tvg-id="1" tvg-name="CCTV9" group-title="央视高清",CCTV-1综合
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/CCTV10.png" tvg-id="1" tvg-name="CCTV10" group-title="央视高清",CCTV-1综合
 http://10.10.10.10/1.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/CCTV1.png" tvg-id="1" tvg-name="CCTV10" group-title="央视高清",CCTV-1综合
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/CCTV11.png" tvg-id="1" tvg-name="CCTV11" group-title="央视高清",CCTV-1综合
 http://10.10.10.10/1.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/CCTV1.png" tvg-id="1" tvg-name="CCTV11" group-title="央视高清",CCTV-1综合
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/CCTV12.png" tvg-id="1" tvg-name="CCTV12" group-title="央视高清",CCTV-1综合
 http://10.10.10.10/1.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/CCTV1.png" tvg-id="1" tvg-name="CCTV12" group-title="央视高清",CCTV-1综合
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/CCTV13.png" tvg-id="1" tvg-name="CCTV13" group-title="央视高清",CCTV-1综合
 http://10.10.10.10/1.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/CCTV1.png" tvg-id="1" tvg-name="CCTV13" group-title="央视高清",CCTV-1综合
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/CCTV14.png" tvg-id="1" tvg-name="CCTV14" group-title="央视高清",CCTV-1综合
 http://10.10.10.10/1.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/CCTV1.png" tvg-id="1" tvg-name="CCTV14" group-title="央视高清",CCTV-1综合
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/CCTV15.png" tvg-id="1" tvg-name="CCTV15" group-title="央视高清",CCTV-1综合
 http://10.10.10.10/1.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/CCTV1.png" tvg-id="1" tvg-name="CCTV15" group-title="央视高清",CCTV-1综合
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/CCTV16.png" tvg-id="1" tvg-name="CCTV16" group-title="央视高清",CCTV-1综合
 http://10.10.10.10/1.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/CCTV1.png" tvg-id="1" tvg-name="CCTV16" group-title="央视高清",CCTV-1综合
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/CCTV17.png" tvg-id="1" tvg-name="CCTV17" group-title="央视高清",CCTV-1综合
 http://10.10.10.10/1.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/CCTV1.png" tvg-id="1" tvg-name="CCTV17" group-title="央视高清",CCTV-1综合
-http://10.10.10.10/1.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/CCTV1.png" tvg-id="1" tvg-name="CCTV5+" group-title="央视高清",CCTV-1综合
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/CCTV5+.png" tvg-id="1" tvg-name="CCTV5+" group-title="央视高清",CCTV-1综合
 http://10.10.10.10/1.m3u8
