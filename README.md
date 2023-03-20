@@ -1,5 +1,12 @@
 ### TVlogo
 > 所有资源来自网络，收集整理只为学习交流，未经版权方同意不得商用，私自商用而引发的问题本人概不负责，谢谢理解！如本仓库中部分内容存在侵权行为，欢迎留言联系我删除。
+2023-03-20 更新
+|乐游|<img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/leyou.png">|
+
+
+
+
+
 
 【[CCTV](./md/01.md)】  【[CGTN=中国教育电视台=新华社=中央新影](./md/02.md)】
 
