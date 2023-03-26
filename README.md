@@ -21,6 +21,9 @@
 
 【[辽宁](./md/48.md)】  【[吉林](./md/49.md)】  【[黑龙江](./md/50.md)】
 
+### 2023-03-26 更新
+<img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/jingcai01.png"><img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/jingcai02.png"><img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/jingcai03.png"><img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/jingcai04.png">
+
 ### 2023-03-20 更新
 > 【[辽宁](./md/48.md)】  【[福建](./md/24.md)】  【[山东](./md/20.md)】  【[天津](./md/34.md)】
 > 按照新的频道呼号核对实际台标做了名称调整
