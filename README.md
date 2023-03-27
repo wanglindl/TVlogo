@@ -22,8 +22,8 @@
 【[辽宁](./md/48.md)】  【[吉林](./md/49.md)】  【[黑龙江](./md/50.md)】
 
 ### 2023-03-26 更新
-> 【[广东](./md/26.md)】
-> 广东省台做了大幅度调整，建议重新下载保存
+> 【[广东](./md/26.md)】  【[北京](./md/33.md)】
+> 广东、北京做了大幅度调整，建议重新下载保存
 
 <img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/jingcai01.png"><img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/jingcai02.png"><img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/jingcai03.png"><img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/jingcai04.png">
 
@@ -32,7 +32,3 @@
 > 按照新的频道呼号核对实际台标做了名称调整
 
 <img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/leyou.png"><img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/huashu4k.png"><img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TaiwanPlus.png"><img src="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Fujian9.png"><img src="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/bjtjcai.png"><img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Hubei7.png"><img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Mnews.png"><img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/inbm.png">
-
-### 2023-03-18 更新
-<img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Beijing1.png"><img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Beijing2.png"><img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Beijing3.png"><img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Beijing4.png"><img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Beijing5.png"><img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Beijing6.png"><img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Beijing7.png"><img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Beijing8.png"><img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Beijing9.png"><img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Beijing10.png">
-
