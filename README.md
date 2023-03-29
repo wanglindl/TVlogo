@@ -22,7 +22,7 @@
 【[辽宁](./md/48.md)】  【[吉林](./md/49.md)】  【[黑龙江](./md/50.md)】
 
 ### 2023-03-26 更新
-> 【[广东](./md/26.md)】  【[北京](./md/33.md)】  大幅度调整，建议重新下载保存
+> 【[广东](./md/26.md)】  【[北京](./md/33.md)】  【[湖南](./md/29.md)】  大幅度调整，建议重新下载保存
 
 <img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/xindm.png"><img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/jtlc.png"><img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB3.png"><img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB5.png"><img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/HOY1.png"><img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CTI5.png"><img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/jingcai01.png"><img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/jingcai02.png"><img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/jingcai03.png"><img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/jingcai04.png">
 
