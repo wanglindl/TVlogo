@@ -735,3 +735,188 @@
 | 38 | deep | adj. 深的;纵深的 |
 | 39 | dangerous | adj. 有危险的;不安全的 |
 | 40 | prepare | v. 使做好准备;把……准备好 |
+
+## 第 17 天
+
+### 第十七组 第 1 次
+| 序号 | 单词 | 解释 |
+| :--- | :--- | :--- |
+| 1 | choice | n. 选择;挑选 |
+| 2 | win | v. 获胜;赢;赢得 |
+| 3 | beginning | n. 开头;开端 |
+| 4 | pass | v. 给;递;走过;通过 |
+| 5 | laugh | v. 笑;发笑 n. 笑声 |
+| 6 | strange | adj. 奇特的;奇怪的 |
+| 7 | courage | n. 勇敢;勇气 |
+| 8 | aunt | n. 姑母;姨母;伯母;婶母;舅母 |
+| 9 | door | n. 门 |
+| 10 | report | v. & n. 报道;报告 |
+| 11 | funny | adj. 奇怪的;滑稽好笑的 |
+| 12 | whose | adj. & pron. 谁的 |
+| 13 | necessary | adj. 必需的;必要的 |
+| 14 | rain | v. 下雨 n. 雨水 |
+| 15 | form | n. 形式;类型 |
+| 16 | black | adj. & n. 黑色(的) |
+| 17 | careful | adj. 小心的;细致的;精心的;慎重的 |
+| 18 | realize | v. 理解;领会;认识到;实现 |
+| 19 | wall | n. 墙 |
+| 20 | impossible | adj. 不可能存在或发生的;不可能的 |
+| 21 | Friday | n. 星期五 |
+| 22 | sunny | adj. 晴朗的 |
+| 23 | hi | interj. (用于打招呼)嗨;喂 |
+| 24 | amazing | adj. 令人大为惊奇的;令人惊喜(或惊叹)的 |
+| 25 | sugar | n. 食糖 |
+| 26 | delicious | adj. 可口的;美味的 |
+| 27 | clear | adj. 清楚易懂的;晴朗的 |
+| 28 | north | n. 北;北方 adj. 北方的 |
+| 29 | actually | adv. 真实地;事实上 |
+| 30 | whenever | conj. 在任何……的时候;无论何时 |
+| 31 | camp | v. 扎营;搭帐篷 |
+| 32 | development | n. 发展;发育;成长 |
+| 33 | cause | v. 造成;引起 |
+| 34 | bill | n. 账单 |
+| 35 | break | v. (使)破;裂 n. 间歇;休息 |
+| 36 | size | n. 大小;尺码 |
+| 37 | tradition | n. 传统 |
+| 38 | movie | n. 电影 |
+| 39 | luckily | adv. 幸运地;好运地 |
+| 40 | avoid | v. 避免;回避 |
+
+## 第 18 天
+
+### 第十八组 第 1 次
+| 序号 | 单词 | 解释 |
+| :--- | :--- | :--- |
+| 1 | against | prep. 倚;碰;撞 |
+| 2 | century | n. 百年;世纪 |
+| 3 | lake | n. 湖;湖泊 |
+| 4 | lazy | adj. 懒散的;懒惰的 |
+| 5 | moon | n. 月亮 |
+| 6 | vacation | n. 假期 |
+| 7 | perfect | adj. 完美的;完全的 |
+| 8 | boat | n. 小船 |
+| 9 | natural | adj. 自然的 |
+| 10 | leg | n. 腿 |
+| 11 | shop | v. 购物 n. 商店 |
+| 12 | weekend | n. 周末 |
+| 13 | project | n. 项目;工程 |
+| 14 | sea | n. 海;海洋 |
+| 15 | hello | interj. 你好;喂 |
+| 16 | classroom | n. 教室 |
+| 17 | province | n. 省份 |
+| 18 | Internet | n. (国际)互联网;因特网 |
+| 19 | hole | n. 洞;孔;坑 |
+| 20 | double | v. 加倍;是……的两倍 adj. 两倍的;加倍的 |
+| 21 | similar | adj. 相像的;类似的 |
+| 22 | serious | adj. 严肃的;稳重的 |
+| 23 | sign | n. 标志;信号 |
+| 24 | piece | n. 片;块;段 |
+| 25 | valuable | adj. 贵重的;很有用的;宝贵的 |
+| 26 | herself | pron. (she的反身代词)她自己 |
+| 27 | wash | v. 洗 |
+| 28 | fresh | adj. 新鲜的;清新的 |
+| 29 | process | v. 加工;处理 n. 过程 |
+| 30 | artist | n. 艺术家 |
+| 31 | land | n. 陆地;大地 |
+| 32 | create | v. 创造;创建 |
+| 33 | complete | v. 完成 |
+| 34 | violin | n. 小提琴 |
+| 35 | bowl | n. 碗 |
+| 36 | holiday | n. 假期;假日 |
+| 37 | sport | n. 体育运动 |
+| 38 | list | v. 列表;列清单 n. 名单;清单 |
+| 39 | hit | v. (用手或器具)击;打 |
+| 40 | Europe | n. 欧洲 |
+
+## 第 19 天
+
+### 第十九组 第 1 次
+| 序号 | 单词 | 解释 |
+| :--- | :--- | :--- |
+| 1 | draw | v. 画 |
+| 2 | produce | v. 生产;制造;出产 |
+| 3 | game | n. 游戏;运动;比赛 |
+| 4 | cry | v. & n. 哭;叫喊 |
+| 5 | stand | v. 忍受;站立 |
+| 6 | speed | n. 速度 |
+| 7 | website | n. 网站 |
+| 8 | recently | adv. 不久前;最近 |
+| 9 | ourselves | pron. (we的反身代词)我们自己 |
+| 10 | west | adv. 向西;朝西 adj. 向西的;西部的 n. 西;西方 |
+| 11 | wind | n. 风 |
+| 12 | action | n. 行动 |
+| 13 | hungry | adj. 饥饿的 |
+| 14 | especially | adv. 尤其;特别;格外 |
+| 15 | correct | adj. 正确的;恰当的 |
+| 16 | task | n. 任务;工作 |
+| 17 | simple | adj. 简单的;易做的 |
+| 18 | influence | v. & n. 影响 |
+| 19 | besides | prep. 除……之外还 adv. 而且;再说 |
+| 20 | clock | n. 时钟 |
+| 21 | happen | v. 发生;出现 |
+| 22 | ball | n. 球 |
+| 23 | progress | v. & n. 进步;进展 |
+| 24 | hardly | adv. 几乎不;几乎没有 |
+| 25 | brave | adj. 勇敢的;无畏的 |
+| 26 | brightly | adv. 光亮地;明亮地 adj. 明亮的;光线充足的 |
+| 27 | confident | adj. 自信的;有自信心的 |
+| 28 | ability | n. 能力;才能 |
+| 29 | support | v. & n. 支持 |
+| 30 | offer | v. 主动提出;自愿给予 |
+| 31 | electric | adj. 电的;用电的;电动的;发电的 |
+| 32 | moving | adj. 动人的;令人感动的 |
+| 33 | gold | n. 金子;金币 adj. 金色的 |
+| 34 | kid | n. 小孩;年轻人 v. 开玩笑;欺骗 |
+| 35 | baby | adj. 幼小的 n. 婴儿 |
+| 36 | desert | n. 沙漠 |
+| 37 | region | n. 地域;地区 |
+| 38 | drive | v. 开车 |
+| 39 | third | num. 第三 |
+| 40 | problem | n. 问题;苦恼 |
+
+## 第 20 天
+
+### 第二十组 第 1 次
+| 序号 | 单词 | 解释 |
+| :--- | :--- | :--- |
+| 1 | your | pron. 你的;你们的 |
+| 2 | key | n. 钥匙 |
+| 3 | basketball | n. 篮球 |
+| 4 | provide | v. 提供;供应 |
+| 5 | depend | v. 依靠;信赖 |
+| 6 | comfortable | adj. 使人舒服的;舒适的 |
+| 7 | college | n. 学院;大学;高等专科学校 |
+| 8 | bridge | n. 桥 |
+| 9 | volunteer | v. 义务做;自愿做 n. 志愿者 |
+| 10 | usual | adj. 通常的;寻常的 |
+| 11 | bit | n. 一点;小块 |
+| 12 | power | n. 权力;力量 |
+| 13 | scientist | n. 科学家 |
+| 14 | sit | v. 坐 |
+| 15 | wear | v. 穿;戴 |
+| 16 | foot | n. 脚;足 |
+| 17 | pull | v. 拉;拖 |
+| 18 | above | prep. 在……上面 adv. 在上面 |
+| 19 | relax | v. 放松;休息 |
+| 20 | rich | adj. 富有的 |
+| 21 | paint | v. 用颜料画;在……上刷油漆 |
+| 22 | else | adv. 别的;其他的 |
+| 23 | personal | adj. 个人的;私人的 |
+| 24 | forward | v. 转弯;发送 adv. 向前;前进 |
+| 25 | service | n. 接待;服务 |
+| 26 | diary | n. 日记;记事簿 |
+| 27 | hometown | n. 家乡;故乡 |
+| 28 | dance | v. 跳舞 n. 舞蹈 |
+| 29 | hall | n. 大厅;礼堂 |
+| 30 | gas | n. 气体 |
+| 31 | twelve | num. 十二 |
+| 32 | yard | n. 院子 |
+| 33 | hotel | n. 旅馆;酒店 |
+| 34 | collect | v. 收集;采集 |
+| 35 | lion | n. 狮子 |
+| 36 | skill | n. 技艺;技巧 |
+| 37 | map | n. 地图 |
+| 38 | climate | n. 气候 |
+| 39 | breakfast | n. 早餐;早饭 |
+| 40 | fight | v. & n. 打架;战斗 |
+
