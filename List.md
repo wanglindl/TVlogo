@@ -689,3 +689,48 @@
 | 38 | already | adv. 已经；早已 |
 | 39 | forest | n. 森林 |
 | 40 | throw | v. 扔；掷 |
+
+
+| 序号 | 单词 | 解释 |
+| :--- | :--- | :--- |
+| 1 | gift | n. 礼物; 赠品 |
+| 2 | medicine | n. 药; 医学 |
+| 3 | under | prep. 在……下 |
+| 4 | wrong | adj. 有毛病; 错误的 |
+| 5 | lost | v. 遗失; 丢失 |
+| 6 | fact | n. 现实; 事实 |
+| 7 | child | n. 儿童 |
+| 8 | outside | adv. 在外面 adj. 外面的 |
+| 9 | student | n. 学生 |
+| 10 | name | n. 名字; 名称 |
+| 11 | center | n. 中心; 中央 |
+| 12 | garden | n. 花园; 园子 |
+| 13 | energy | n. 力量; 精力 |
+| 14 | near | prep. 在……附近 adv. 在附近 |
+| 15 | safe | adj. 安全的; 无危险的 |
+| 16 | white | adj. & n. 白色(的) |
+| 17 | run | v. 跑; 奔 |
+| 18 | fish | n. 鱼; 鱼肉 |
+| 19 | along | prep. 沿着; 顺着 adv. 向前; (与某人)一道; 一起 |
+| 20 | full | adj. 忙的; 满的; 充满的 |
+| 21 | cold | adj. 寒冷的; 冷漠的 n. 冷; 寒冷; 感冒 |
+| 22 | university | n. (综合性) 大学; 高等学府 |
+| 23 | oh | interj. 哦; 啊 |
+| 24 | number | n. 号码; 数字 |
+| 25 | cut | v. 砍; 切 |
+| 26 | speech | n. 演说; 讲话; 发言 |
+| 27 | king | n. 国王; 君主 |
+| 28 | film | n. 电影 |
+| 29 | restaurant | n. 餐馆 |
+| 30 | purpose | n. 目的; 目标 |
+| 31 | hurt | v. (使) 疼痛; 受伤 adj. 受伤的 |
+| 32 | weather | n. 天气 |
+| 33 | open | v. 开; 打开 n. 户外; 野外 |
+| 34 | fall | v. & n. 倒塌; 跌倒; 掉落 n. (美式) 秋天 |
+| 35 | quickly | adv. 很快地 |
+| 36 | wonderful | adj. 精彩的; 绝妙的 |
+| 37 | poor | adj. 贫穷的; 清贫的 |
+| 38 | oil | n. 油; 食用油; 石油 |
+| 39 | sun | n. 太阳 |
+| 40 | improve | v. 改进; 改善 |
+
